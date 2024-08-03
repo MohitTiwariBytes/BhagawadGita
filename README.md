@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+This is a website that tells about the spritual book of Bhagawad Gita!
